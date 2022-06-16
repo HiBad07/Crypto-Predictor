@@ -1,11 +1,11 @@
-##ML Crypto Predictor
+## ML Crypto Predictor
 
 </div>
 
 This repository contains a machine-learning program that can be trained to predict the prices of Bitcoin-USD (Or any other cryptocurrency) accurately.
 It trains off of around 900 datasets from the past thousand days.
 
-#DISCLAIMER
+# DISCLAIMER
 This is still a heavy work in progress, and is not 100% accurate by any means. This can be seen when you compare past vs predicted future values in a table.
 This was made by a GCSE computer science student, so let's not bash the coding skills :)
 
